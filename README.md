@@ -1,3 +1,3 @@
 # Juego-Dieselpunk
-Juego de Sodvi
-Este es un juego que se desarrollo por un grupo de estudientes
+Juego de SODVI
+Juego desarrollado por un grupo de estudiantes durante el semestre 2026-1 en la FI de la UNAM en la asociación estudiantil SODIV. El juego tiene temática de Space Invaders.
