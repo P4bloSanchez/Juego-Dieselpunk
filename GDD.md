@@ -75,7 +75,7 @@ Backstory: Está buscando a su novio.
 - Lugares: Base Aérea (similar a Skyloft, primer nivel, menú principal), nivel en los 
 Alpes (tercer), nivel en Cañón (segundo). 
 
-- Se está considerando tener retrofuturismo un contexto de retrofuturismo.
+- Se está considerando tener retrofuturismo.
 
 ## Historia
 
